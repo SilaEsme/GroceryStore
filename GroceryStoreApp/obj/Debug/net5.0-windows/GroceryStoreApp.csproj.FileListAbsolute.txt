@@ -1,0 +1,168 @@
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 6\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.FormSelection.resources
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 6\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.csproj.GenerateResource.cache
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 6\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 6\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.AssemblyInfoInputs.cache
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 6\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.AssemblyInfo.cs
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 6\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 6\GroceryStoreApp\GroceryStoreApp\bin\Debug\net5.0-windows\GroceryStoreApp.exe
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 6\GroceryStoreApp\GroceryStoreApp\bin\Debug\net5.0-windows\GroceryStoreApp.deps.json
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 6\GroceryStoreApp\GroceryStoreApp\bin\Debug\net5.0-windows\GroceryStoreApp.runtimeconfig.json
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 6\GroceryStoreApp\GroceryStoreApp\bin\Debug\net5.0-windows\GroceryStoreApp.runtimeconfig.dev.json
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 6\GroceryStoreApp\GroceryStoreApp\bin\Debug\net5.0-windows\GroceryStoreApp.dll
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 6\GroceryStoreApp\GroceryStoreApp\bin\Debug\net5.0-windows\ref\GroceryStoreApp.dll
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 6\GroceryStoreApp\GroceryStoreApp\bin\Debug\net5.0-windows\GroceryStoreApp.pdb
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 6\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.dll
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 6\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\ref\GroceryStoreApp.dll
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 6\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.pdb
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 6\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.genruntimeconfig.cache
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 6\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.FormGroceryStoreAdminPanel.resources
+C:\Users\lenovo\Desktop\GroceryStoreApp\GroceryStoreApp\bin\Debug\net5.0-windows\GroceryStoreApp.exe
+C:\Users\lenovo\Desktop\GroceryStoreApp\GroceryStoreApp\bin\Debug\net5.0-windows\GroceryStoreApp.deps.json
+C:\Users\lenovo\Desktop\GroceryStoreApp\GroceryStoreApp\bin\Debug\net5.0-windows\GroceryStoreApp.runtimeconfig.json
+C:\Users\lenovo\Desktop\GroceryStoreApp\GroceryStoreApp\bin\Debug\net5.0-windows\GroceryStoreApp.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\GroceryStoreApp\GroceryStoreApp\bin\Debug\net5.0-windows\GroceryStoreApp.dll
+C:\Users\lenovo\Desktop\GroceryStoreApp\GroceryStoreApp\bin\Debug\net5.0-windows\ref\GroceryStoreApp.dll
+C:\Users\lenovo\Desktop\GroceryStoreApp\GroceryStoreApp\bin\Debug\net5.0-windows\GroceryStoreApp.pdb
+C:\Users\lenovo\Desktop\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.FormGroceryStoreAdminPanel.resources
+C:\Users\lenovo\Desktop\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.dll
+C:\Users\lenovo\Desktop\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\ref\GroceryStoreApp.dll
+C:\Users\lenovo\Desktop\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.pdb
+C:\Users\lenovo\Desktop\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.Properties.Resources.resources
+C:\Users\Zeynep\Desktop\GroceryStoreApp\GroceryStoreApp\bin\Debug\net5.0-windows\GroceryStoreApp.exe
+C:\Users\Zeynep\Desktop\GroceryStoreApp\GroceryStoreApp\bin\Debug\net5.0-windows\GroceryStoreApp.deps.json
+C:\Users\Zeynep\Desktop\GroceryStoreApp\GroceryStoreApp\bin\Debug\net5.0-windows\GroceryStoreApp.runtimeconfig.json
+C:\Users\Zeynep\Desktop\GroceryStoreApp\GroceryStoreApp\bin\Debug\net5.0-windows\GroceryStoreApp.runtimeconfig.dev.json
+C:\Users\Zeynep\Desktop\GroceryStoreApp\GroceryStoreApp\bin\Debug\net5.0-windows\GroceryStoreApp.dll
+C:\Users\Zeynep\Desktop\GroceryStoreApp\GroceryStoreApp\bin\Debug\net5.0-windows\ref\GroceryStoreApp.dll
+C:\Users\Zeynep\Desktop\GroceryStoreApp\GroceryStoreApp\bin\Debug\net5.0-windows\GroceryStoreApp.pdb
+C:\Users\Zeynep\Desktop\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.csprojAssemblyReference.cache
+C:\Users\Zeynep\Desktop\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.Properties.Resources.resources
+C:\Users\Zeynep\Desktop\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.csproj.GenerateResource.cache
+C:\Users\Zeynep\Desktop\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeynep\Desktop\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.AssemblyInfoInputs.cache
+C:\Users\Zeynep\Desktop\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.AssemblyInfo.cs
+C:\Users\Zeynep\Desktop\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\Zeynep\Desktop\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.dll
+C:\Users\Zeynep\Desktop\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\ref\GroceryStoreApp.dll
+C:\Users\Zeynep\Desktop\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.pdb
+C:\Users\Zeynep\Desktop\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.genruntimeconfig.cache
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 6\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.FormGroceryStoreCustomerPanel.resources
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 6\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.FormLoginAdmin.resources
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 6\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.FormLoginCustomer.resources
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 6\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.Properties.Resources.resources
+C:\Users\Zeynep\Desktop\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.FormGroceryStoreAdminPanel.resources
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 6\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.FormLogin.resources
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 6\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.UserControlProductInformations.resources
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 6\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.UserControlProductPanel.resources
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 6\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.UserControlShoppingItems.resources
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 6\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.UserControlShoppingCart.resources
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 6\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.csproj.AssemblyReference.cache
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\GroceryStoreApp\bin\Debug\net5.0-windows\GroceryStoreApp.exe
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\GroceryStoreApp\bin\Debug\net5.0-windows\GroceryStoreApp.deps.json
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\GroceryStoreApp\bin\Debug\net5.0-windows\GroceryStoreApp.runtimeconfig.json
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\GroceryStoreApp\bin\Debug\net5.0-windows\GroceryStoreApp.runtimeconfig.dev.json
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\GroceryStoreApp\bin\Debug\net5.0-windows\GroceryStoreApp.dll
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\GroceryStoreApp\bin\Debug\net5.0-windows\ref\GroceryStoreApp.dll
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\GroceryStoreApp\bin\Debug\net5.0-windows\GroceryStoreApp.pdb
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.csproj.AssemblyReference.cache
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.FormGroceryStoreAdminPanel.resources
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.FormGroceryStoreCustomerPanel.resources
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.FormLogin.resources
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.FormLoginAdmin.resources
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.FormLoginCustomer.resources
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.FormSelection.resources
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.Properties.Resources.resources
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.UserControlProductInformations.resources
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.UserControlProductPanel.resources
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.UserControlShoppingCart.resources
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.UserControlShoppingItems.resources
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.csproj.GenerateResource.cache
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.AssemblyInfoInputs.cache
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.AssemblyInfo.cs
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.dll
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\ref\GroceryStoreApp.dll
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.pdb
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.genruntimeconfig.cache
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.UserControlMyProfile.resources
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\GroceryStoreApp\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\GroceryStoreApp\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\GroceryStoreApp\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\GroceryStoreApp\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\GroceryStoreApp\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\GroceryStoreApp\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.csproj.CopyComplete
+C:\Users\lenovo\Desktop\GroceryStoreApp\GroceryStoreApp\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\GroceryStoreApp\GroceryStoreApp\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lenovo\Desktop\GroceryStoreApp\GroceryStoreApp\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lenovo\Desktop\GroceryStoreApp\GroceryStoreApp\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lenovo\Desktop\GroceryStoreApp\GroceryStoreApp\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\GroceryStoreApp\GroceryStoreApp\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.csproj.CopyComplete
+C:\Users\Zeynep\Desktop\GroceryStoreApp\GroceryStoreApp\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Zeynep\Desktop\GroceryStoreApp\GroceryStoreApp\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Zeynep\Desktop\GroceryStoreApp\GroceryStoreApp\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Zeynep\Desktop\GroceryStoreApp\GroceryStoreApp\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Zeynep\Desktop\GroceryStoreApp\GroceryStoreApp\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Zeynep\Desktop\GroceryStoreApp\GroceryStoreApp\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Zeynep\Desktop\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.csproj.CopyComplete
+C:\Users\Zeynep\Desktop\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.FormLoginAdmin.resources
+C:\Users\Zeynep\Desktop\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.FormLoginCustomer.resources
+C:\Users\Zeynep\Desktop\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.FormSignUpCustomer.resources
+C:\Users\Zeynep\Desktop\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.FormSelection.resources
+C:\Users\Zeynep\Desktop\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.FormGroceryStoreCustomerPanel.resources
+C:\Users\Zeynep\Desktop\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.UserControlProductPanel.resources
+C:\Users\Zeynep\Desktop\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.UserControlProductInformations.resources
+C:\Users\lenovo\Desktop\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.FormGroceryStoreCustomerPanel.resources
+C:\Users\lenovo\Desktop\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.FormLoginAdmin.resources
+C:\Users\lenovo\Desktop\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.FormLoginCustomer.resources
+C:\Users\lenovo\Desktop\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.FormSelection.resources
+C:\Users\lenovo\Desktop\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.FormSignUpCustomer.resources
+C:\Users\lenovo\Desktop\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.UserControlProductInformations.resources
+C:\Users\lenovo\Desktop\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.UserControlProductPanel.resources
+C:\Users\lenovo\Desktop\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.UserControlShoppingCart.resources
+C:\Users\lenovo\Desktop\GroceryStoreApp\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.UserControlShoppingItems.resources
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\bin\Debug\net5.0-windows\GroceryStoreApp.exe
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\bin\Debug\net5.0-windows\GroceryStoreApp.deps.json
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\bin\Debug\net5.0-windows\GroceryStoreApp.runtimeconfig.json
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\bin\Debug\net5.0-windows\GroceryStoreApp.runtimeconfig.dev.json
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\bin\Debug\net5.0-windows\GroceryStoreApp.dll
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\bin\Debug\net5.0-windows\ref\GroceryStoreApp.dll
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\bin\Debug\net5.0-windows\GroceryStoreApp.pdb
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.csproj.AssemblyReference.cache
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.FormGroceryStoreAdminPanel.resources
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.FormGroceryStoreCustomerPanel.resources
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.FormLogin.resources
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.FormLoginAdmin.resources
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.FormLoginCustomer.resources
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.FormSelection.resources
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.Properties.Resources.resources
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.UserControlProductInformations.resources
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.UserControlProductPanel.resources
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.UserControlShoppingCart.resources
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.UserControlShoppingItems.resources
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.csproj.GenerateResource.cache
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.AssemblyInfoInputs.cache
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.AssemblyInfo.cs
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.csproj.CopyComplete
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.dll
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\obj\Debug\net5.0-windows\ref\GroceryStoreApp.dll
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.pdb
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.genruntimeconfig.cache
+C:\Users\silae\Desktop\Projects\OOP Lab II\Take Home 7\GroceryStoreApp\obj\Debug\net5.0-windows\GroceryStoreApp.UserControlMyProfile.resources
